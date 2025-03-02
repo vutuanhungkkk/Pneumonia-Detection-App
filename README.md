@@ -5,3 +5,4 @@ This project is a real-time Pneumonia detection application built with VGG19 and
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia 
 
 # Video demo
+https://youtu.be/Cgu_4IBGrRg 
